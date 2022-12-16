@@ -9,6 +9,8 @@ packages = [{include = "census_comparison"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+jupyterlab = "^3.5.1"
+pandas = "^1.5.2"
 
 
 [build-system]
