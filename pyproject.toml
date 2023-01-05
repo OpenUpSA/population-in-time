@@ -11,6 +11,7 @@ packages = [{include = "census_comparison"}]
 python = "^3.10"
 jupyterlab = "^3.5.1"
 pandas = "^1.5.2"
+openpyxl = "^3.0.10"
 
 
 [build-system]
